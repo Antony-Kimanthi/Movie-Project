@@ -1,5 +1,11 @@
 # Analysis for Microsoft's Upcoming Movie Centre
 
+<p align="center">
+  <img width="850" height="250" src="/Head.jpg">
+</p>
+ 
+ [](/Head.jpg)
+
 
 # Project OverView
 
@@ -10,6 +16,7 @@ Microsoft Management is trying to get into the Movie Industry sector. It has see
 
 # Business Understanding
 In this analysis, we are going to look at the following:
+
     1. The movie trends that are currently preffered?
     2. Market share of the movies produced per company?
     3. 
@@ -21,6 +28,7 @@ Visualize::
 
 # Conclusion
 Based on these findings the conclusions to Microsoft are as follows:
+
     1. Microsoft should embrace more child related programs thus building trust to the consumers.
     2. Produce more movie genres that have high ratings overall based on the past releases.
     3. Target to produce atleast 7- 10 movies on a yearly basis.
@@ -30,6 +38,7 @@ Microsoft should have their own TV Network so as to encorage Content Creators to
 
 # Future Work
 Given addional time I would pursue the following:
+
     1. Explore the relationship between the movie gross against it's rating and comment i.e domestically and worldwide.
     2. Find institutions which can we can partner with for Movie and Art School to encarage Young and Aspiring Filmakers.
 
