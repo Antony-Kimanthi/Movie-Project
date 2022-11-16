@@ -1,6 +1,5 @@
 # Analysis for Microsoft's Upcoming Movie Centre
 
-[](/Head.jpg)
 
 # Project OverView
 
